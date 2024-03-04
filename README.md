@@ -1,4 +1,5 @@
-# project
+# flask_and_react_template
+
 ## command
 npx create-react-app frontend
 
@@ -7,7 +8,6 @@ npx create-react-app frontend
 ## replacement file
 scr/
 public/index.html
-
 
 ## update
 .gitignore
@@ -37,5 +37,3 @@ flask db init
 
 flask db migrate -m ""
 flask db upgrade
-# flask_and_react_template
-# flask_and_react_template
