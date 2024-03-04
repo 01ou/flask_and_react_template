@@ -34,3 +34,4 @@ flask db init
 flask db migrate -m ""
 flask db upgrade
 # flask_and_react_template
+# flask_and_react_template
