@@ -131,4 +131,3 @@ def logout():
     else:
         # 認証トークンが提供されていない場合の応答
         return jsonify({'error': 'Authentication token is missing.'}), 401
-

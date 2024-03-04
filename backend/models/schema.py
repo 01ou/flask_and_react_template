@@ -63,4 +63,3 @@ def get_user_id(username):
     
     user_id = user.id
     return jsonify({'user_id': user_id}), 200
-
