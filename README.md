@@ -7,7 +7,11 @@ npx create-react-app frontend
 ## replacement file
 scr/
 public/index.html
+
+
+## update
 .gitignore
+    /dist
 
 ## add file
 .env
